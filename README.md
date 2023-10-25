@@ -10,4 +10,5 @@ Many different graphs were created to interpret easily and look at the informati
 The user can page through the different pages of the report as it was named above. The data was imported from the excel document that was provided and the SQL Server database is also connected as a datasource.
 
 SQL Server database Name: llaytont-cmpg323.database.windows.net
+Link to Power BI Report: https://app.powerbi.com/links/8C9emC73K8?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare
 
