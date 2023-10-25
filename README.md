@@ -9,3 +9,5 @@ Many different graphs were created to interpret easily and look at the informati
 
 The user can page through the different pages of the report as it was named above. The data was imported from the excel document that was provided and the SQL Server database is also connected as a datasource.
 
+SQL Server database Name: llaytont-cmpg323.database.windows.net
+
