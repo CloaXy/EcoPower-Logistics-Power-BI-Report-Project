@@ -1,17 +1,32 @@
-# CMPG323_Project5_34416579
-# Power BI - EcoPower Logistics - Order Monitoring
+# EcoPower Logistics Power BI Report Project
+Welcome to the EcoPower Logistics Power BI Report Project repository! This project focuses on creating a comprehensive Power BI report to analyze and visualize logistics data for EcoPower Logistics. As a member of the development team, your role is to acquire and practice the necessary skills to create a report that provides valuable insights into customer orders, product sales, and other relevant metrics.
 
-As the company needs to analyze and visualize the data for it to be seen and interpreted easily, Power Bi is used to do just that. Graphs, tables, cards and other visuals were created so this data is summarized and visualized for easy interpretation.
+# Overview
+EcoPower Logistics provides comprehensive logistics solutions that tackle the complexities of acquiring, storing, and transporting resources and goods globally. Through their logistics management system, orders are received and processed, while the warehouse serves as a secure storage facility. The data stored can be shared in different ways, including visualizations built into a report or dashboard. The company has opted to use Power BI to create a report that allows stakeholders to monitor the status of customers and their orders.
 
-4 Pages were created namely High-Level metrics for informations that may influence decision making, order monitoring to get information about orders, product monitoring for  information about the products and also customer monitoring to summarize informations about customers over time and other metrics.
+# Project Details
+As the company needs to analyze and visualize the data for easy interpretation, Power BI is utilized to create graphs, tables, cards, and other visuals summarizing the data. The report consists of four pages:
 
-Many different graphs were created to interpret easily and look at the information in such a way that anyone who sees it will understand it. There were also filters created if only certain informations needs to be shown on the graphs.
+High-Level Metrics: Provides information that may influence decision-making.
 
-The user can page through the different pages of the report as it was named above. The data was imported from the excel document that was provided and the SQL Server database is also connected as a datasource.
+Order Monitoring: Offers insights into order status and progress.
 
-SQL Server database Name: llaytont-cmpg323.database.windows.net
+Product Monitoring: Displays information about product sales and performance.
 
+Customer Monitoring: Summarizes information about customers over time and other relevant metrics.
+
+The report includes various graphs and filters to facilitate easy interpretation and customization of the displayed information. Data is imported from the provided Excel document, and the SQL Server database is connected as a datasource.
+
+# Project Links
 Link to Power BI Report: [https://app.powerbi.com/links/8C9emC73K8?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare](https://app.powerbi.com/links/G8ybU0xnVD?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare)
+
+SQL Server Database: llaytont-cmpg323.database.windows.net
+# Conclusion
+The EcoPower Logistics Power BI Report Project aims to provide stakeholders with valuable insights into logistics data through comprehensive visualizations and analysis. Thank you for your interest in the project!
+
+Author: Llayton Titus
+Contact: llaytontitus@gmail.com
+
 
 # References
 
