@@ -21,10 +21,14 @@ The report includes various graphs and filters to facilitate easy interpretation
 Link to Power BI Report: [https://app.powerbi.com/links/8C9emC73K8?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare](https://app.powerbi.com/links/G8ybU0xnVD?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare)
 
 SQL Server Database: llaytont-cmpg323.database.windows.net
+
+Due to the fact that I am not a student anymore, the database may not work because the details are deactivated.
+
 # Conclusion
 The EcoPower Logistics Power BI Report Project aims to provide stakeholders with valuable insights into logistics data through comprehensive visualizations and analysis. Thank you for your interest in the project!
 
 Author: Llayton Titus
+
 Contact: llaytontitus@gmail.com
 
 
